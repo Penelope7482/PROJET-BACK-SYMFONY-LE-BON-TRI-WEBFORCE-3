@@ -15,7 +15,7 @@ https://github.com/kantunb/le-bon-tri
 
 ## Images 
 
-<img src="img\Le Bon Tri - Accueil.png" width="300"> <img src="img\Le Bon Tri -Consignes de tri.png" width="300"> <img src="img\Le Bon Tri - Points de Collecte.png" width="300">
+<img src="img\Le Bon Tri - Accueil.png" width="300"> <img src="img\Le Bon Tri - Consignes de tri.png" width="300"> <img src="img\Le Bon Tri - Points de Collecte.png" width="300">
 
 
 ## Vidéo Démo
